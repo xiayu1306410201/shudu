@@ -1,0 +1,26 @@
+table{
+	border: 1px solid;
+	padding: 0;
+}
+td{
+	border: 2px solid #cfc;
+	text-align: center;
+	width: 48px;
+	height: 48px;
+	background: #cfc;
+	margin: 0 auto;
+}
+input{
+	width: 45px;
+	height: 40px;
+	margin: 0 auto;
+}
+p{
+	display: inline-block;
+	background-color: LightSkyBlue;
+	width: 50px;
+	height: 20px;
+	text-align: center;
+	margin-top: 2px;
+	border: 1px solid ;
+}
